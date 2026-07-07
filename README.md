@@ -103,7 +103,7 @@ I'm a Software Developer from India with experience in building scalable web app
 
 * 💼 LinkedIn: https://www.linkedin.com/in/omkar-desai-63b104279/
 * 📧 Email: omkardesai171@gmail.com
-* 🌐 Portfolio: URLl
+* 🌐 Portfolio: https://omkardesai.netlify.app/
 
 ---
 
